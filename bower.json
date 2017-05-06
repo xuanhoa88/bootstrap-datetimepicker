@@ -1,5 +1,5 @@
 {
-  "name": "smalot-bootstrap-datetimepicker",
+  "name": "llama-bootstrap-datetimepicker",
   "main": ["js/bootstrap-datetimepicker.min.js", "css/bootstrap-datetimepicker.min.css"],
   "ignore": [
     "build",
